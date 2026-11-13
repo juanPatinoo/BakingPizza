@@ -289,6 +289,8 @@ namespace BreakingPizza.UI
             // ── Equipo ──
             Space(170f);
             Header("EL EQUIPO");
+            Space(10f);
+            Line(CreditsData.Group, 22f, Palette.TextDim, bold: true);
             Space(40f);
             foreach (var role in CreditsData.Team)
             {
@@ -300,6 +302,19 @@ namespace BreakingPizza.UI
                 }
                 Space(90f);
             }
+
+            // ── Cátedra ──
+            Space(40f);
+            Header("CÁTEDRA");
+            Space(24f);
+            Line(CreditsData.Subject, 28f, Color.white, bold: true);
+            Line(CreditsData.Faculty, 22f, Palette.TextDim);
+            Space(26f);
+            foreach (string professor in CreditsData.Professors)
+            {
+                Line(professor, 40f, Color.white, bold: true);
+            }
+            Space(110f);
 
             // ── Personajes ──
             Space(40f);

@@ -16,6 +16,17 @@ namespace BreakingPizza.UI
         }
 
         public const string Tagline = "Una parodia de Breaking Bad";
+        public const string Group = "GRUPO 6";
+
+        public const string Subject = "Creatividad y Desarrollo de Entornos Virtuales";
+        public const string Faculty = "UTN  ·  Facultad Regional Córdoba  ·  Curso 5K4";
+
+        public static readonly string[] Professors =
+        {
+            "Ing. Inés Gimenez",
+            "Ing. Franco Mana",
+            "Ing. Bruno Aresu Barella",
+        };
 
         public static readonly Role[] Team =
         {

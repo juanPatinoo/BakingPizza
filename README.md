@@ -4,6 +4,8 @@ Entorno virtual interactivo en primera persona, parodia de *Breaking Bad*. Jesse
 
 **UTN FRC · Creatividad y Desarrollo de Entornos Virtuales (CDEV) · Curso 5K4 · Grupo 6**
 
+**Profesores:** Ing. Inés Gimenez, Ing. Franco Mana, Ing. Bruno Aresu Barella
+
 ## Equipo
 
 | Área | Integrantes |
