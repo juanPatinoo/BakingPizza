@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 333e985ed0b7cbb40a01e062e37bd5f7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\scene.bin
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\scene.bin
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Strawberry_Brand_4_P2_Pantry_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Strawberry_Brand_4_P2_Pantry_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\StairsDesk_6_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\StairsDesk_6_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\StairsDesk_4_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\StairsDesk_4_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ShutterMetal_Frame_IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ShutterMetal_Frame_IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Pineapple_Brand_10_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Pineapple_Brand_10_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Glass_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Glass_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Broken_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Broken_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Broken_Glass_2_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Museum_Window_Broken_Glass_2_IS8_TXT_Window_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__8__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__8__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__4__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__4__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__2__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__2__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__17__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Metal_Shutter__17__IS8_TXT_ShutterMetal_mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Silo_Small_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Silo_Small_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Silo_Big_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Silo_Big_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Shelf_6_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Shelf_6_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_SackBent_7_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_SackBent_7_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Sack_3_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Sack_3_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_MilkBrick_5_P2_Pantry_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_MilkBrick_5_P2_Pantry_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_8_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_8_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_5_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_5_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_20_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_20_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_13_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_13_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_12_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_12_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_11_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_11_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_10_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Main_Wall_10_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Lamp_LightOn_7_P2_Kitchen_Props_01_Unlit_Mobile_0_B.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Lamp_LightOn_7_P2_Kitchen_Props_01_Unlit_Mobile_0_B.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Lamp_9_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Lamp_9_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0.002_Baked.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0.002_Baked.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0.001_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_P2_Kitchen_02_Mobile_0.001_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_Liquid_P2_Kitchen_02_Trans_Mobile_0_B.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_IcecreamMixer_Liquid_P2_Kitchen_02_Trans_Mobile_0_B.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_GateWood_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_GateWood_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_2_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_2_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.003_Baked.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.003_Baked.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.002_Baked.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.002_Baked.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.001_Baked.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_P2_Kitchen_01_Mobile_0.001_Baked.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Main_1_1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Broken_Under_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Floor_Broken_Under_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_3_7_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_3_7_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_3_5_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_3_5_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_1_8_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_1_8_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_1_6_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DrawerBig_Door_1_6_P2_Kitchen_Props_01_Mobile_0_Bak.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Drawer_Hanger_3_8_P2_Kitchen_Props_01_Mobile_0_Bake.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Drawer_Hanger_3_8_P2_Kitchen_Props_01_Mobile_0_Bake.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DoorR_Glass_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DoorR_Glass_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DeskBig_2_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_DeskBig_2_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Casserole_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Casserole_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Basket_14_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Basket_14_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Basket_11_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Kitchen_Basket_11_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\GlassPanel_Glass_1_P2_Kitchen_Props_01_Trans_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\GlassPanel_Glass_1_P2_Kitchen_Props_01_Trans_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\GlassPanel_Frame_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\GlassPanel_Frame_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_Main__2__P2_Kitchen_Props_01_Mobile_0_B.001_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_Main__2__P2_Kitchen_Props_01_Mobile_0_B.001_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_5_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_5_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_4_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_4_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_3_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_3_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_2_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_2_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Drawer_Small_Drawer_4_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\DoorWood_Frame_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\DoorWood_Frame_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\DoorDouble_Kitchen_Right_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\DoorDouble_Kitchen_Right_P2_Kitchen_02_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ConduitHole_Glass_P2_Kitchen_Props_01_Trans_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ConduitHole_Glass_P2_Kitchen_Props_01_Trans_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ConduitHole_Baseboard_Down1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\ConduitHole_Baseboard_Down1_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_8_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_8_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_7_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_7_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_1_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_17_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_Yellow_17_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_White_14_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\Bottle_White_14_P2_Kitchen_Props_01_Mobile_0_Baked.002_emissive.png
+  - type: 1
+    originalUri: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\BaseBoard_110_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+    assetPath: Assets\Models\kitchen_and_lab_by_amogusstrikesback2\textures\BaseBoard_110_P2_Kitchen_01_Mobile_0_Baked.002_emissive.png
+  reportItems: []

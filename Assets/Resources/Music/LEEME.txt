@@ -1,0 +1,14 @@
+CANCIONES PROPIAS (opcional)
+
+Poné acá un archivo de audio (mp3, ogg o wav) y el juego lo usa en vez de la
+música generada por código. El nombre del archivo tiene que EMPEZAR con el
+nombre del tema:
+
+  Creditos - Nombre del tema - Artista.mp3     -> créditos finales
+  Desierto - Nombre del tema - Artista.mp3     -> desierto
+  Laboratorio - Nombre del tema - Artista.mp3  -> laboratorio (antes de la máscara)
+  Giro - Nombre del tema - Artista.mp3         -> el giro: máscara + "secuestraron a Jesse"
+  Cocina - Nombre del tema - Artista.mp3       -> cocina (minijuegos)
+
+Lo que va después del primer guion aparece solo en los créditos finales,
+en la sección MÚSICA. Si no hay archivo, suena la música sintetizada.

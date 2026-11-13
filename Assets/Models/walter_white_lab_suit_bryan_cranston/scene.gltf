@@ -1,0 +1,440 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        87.81999969482422,
+        162.5153045654297,
+        22.29861831665039
+      ],
+      "min": [
+        -88.81078338623047,
+        0.14887486398220062,
+        -17.367469787597656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 35508,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9996901154518127,
+        0.9997931718826294,
+        0.9995850324630737
+      ],
+      "min": [
+        -0.9999880790710449,
+        -0.9998881220817566,
+        -0.9999383091926575
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9944323301315308,
+        0.9872411489486694
+      ],
+      "min": [
+        0.005284846760332584,
+        0.0058595724403858185
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14082,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71016,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        6.653229713439941,
+        172.43267822265625,
+        12.003263473510742
+      ],
+      "min": [
+        -6.934142112731934,
+        168.1851806640625,
+        9.907453536987305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71832,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.6636507511138916,
+        0.8739292621612549,
+        0.9919580817222595
+      ],
+      "min": [
+        -0.9043618440628052,
+        -0.8720138072967529,
+        -0.9995717406272888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23672,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.09236615896224976,
+        0.005451316479593515
+      ],
+      "min": [
+        0.09236615896224976,
+        0.005451316479593515
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 56328,
+      "componentType": 5125,
+      "count": 384,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 72648,
+      "componentType": 5126,
+      "count": 1815,
+      "max": [
+        8.416143417358398,
+        182.88955688476563,
+        14.016916275024414
+      ],
+      "min": [
+        -9.890129089355469,
+        152.03335571289063,
+        -9.05843734741211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 94428,
+      "componentType": 5126,
+      "count": 1815,
+      "max": [
+        0.999862551689148,
+        0.9976279735565186,
+        0.9995503425598145
+      ],
+      "min": [
+        -0.9994676113128662,
+        -0.9967700242996216,
+        -0.9976354241371155
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24216,
+      "componentType": 5126,
+      "count": 1815,
+      "max": [
+        0.9999995231628418,
+        1.0
+      ],
+      "min": [
+        4.76837158203125e-07,
+        0.005097332876175642
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 57864,
+      "componentType": 5125,
+      "count": 10662,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "00amza (https://sketchfab.com/00amza)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/walter-white-lab-suit-bryan-cranston-166c223bce3a400e807825b24a19ce68",
+      "title": "Walter White Lab Suit, Bryan Cranston"
+    },
+    "generator": "Sketchfab-16.95.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 100512,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38736,
+      "byteOffset": 100512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116208,
+      "byteOffset": 139248,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 255456,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/Body_baseColor.png"
+    },
+    {
+      "uri": "textures/Head_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.0
+        }
+      },
+      "name": "Body",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.13257183259987076,
+        "roughnessFactor": 0.6906657239336349
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.588,
+          0.588,
+          0.588,
+          0.10819080591483707
+        ],
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.0
+        }
+      },
+      "name": "Head",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.1386670892711292,
+        "roughnessFactor": 0.7028562372761518
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Body_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "glasses_Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "head_Head_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "eb7da8401872422fa9778319be112cc2.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Body"
+    },
+    {
+      "mesh": 0,
+      "name": "Body_Body_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "glasses"
+    },
+    {
+      "mesh": 1,
+      "name": "glasses_Glass_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "head"
+    },
+    {
+      "mesh": 2,
+      "name": "head_Head_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
